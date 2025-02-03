@@ -106,7 +106,7 @@ function App() {
                 ? "I promise to make this Valentine's Day special!"
                 : "I'll keep trying to win your heart!"}
             </p>
-            <p className="text-gray-600 mt-4 italic">- Oluwafemi</p>
+            <p className="text-gray-600 mt-4 italic">- Oluwafemi😎</p>
           </div>
         )}
       </div>
